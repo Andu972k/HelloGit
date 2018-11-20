@@ -16,6 +16,12 @@ namespace HelloGit
 
             Console.WriteLine("Ekstra tekst");
 
+
+            for (int index = 0; index < 10; index++)
+            {
+                Console.WriteLine(index);
+            }
+
             Console.ReadLine();
 
         }
