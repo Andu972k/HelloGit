@@ -17,6 +17,7 @@ namespace HelloGit
 
 
             Console.WriteLine("Dette er en test der er lavet lokalt");
+            Console.WriteLine("Dette er en test remote");
             
             
 
