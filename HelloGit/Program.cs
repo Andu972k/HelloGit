@@ -16,7 +16,7 @@ namespace HelloGit
             Console.WriteLine("Hello Git");
 
 
-            Console.WriteLine("Ekstra tekst");
+            Console.WriteLine("Dette er en test der er lavet lokalt");
             
             
 
