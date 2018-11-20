@@ -16,6 +16,8 @@ namespace HelloGit
 
             Console.WriteLine("Ekstra tekst");
 
+            Console.ReadLine();
+
         }
     }
 }
